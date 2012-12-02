@@ -1,4 +1,1 @@
-vim_config
-==========
-
-my vim configure
+This is my vim configure. I hope it's helpful.
