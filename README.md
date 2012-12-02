@@ -1,1 +1,1 @@
-This is my vim configure. I hope it's helpful.
+This is my vim configure. Hope it will be helpful.
